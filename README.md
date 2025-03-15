@@ -8,7 +8,7 @@
   Consumet API
 </h1>
 <p align="center">
-  Consumet provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
+  Consumet (published) provides an APIs for accessing information and links for various entertainments like movies, books, anime, etc.
 </p>
 <p align="center">
     <a href="https://github.com/consumet/api.consumet.org/actions/workflows/docker-build.yml">
